@@ -2,7 +2,7 @@
 
 ---
 
-#### Présentation du projet
+## Présentation du projet
 
 **Nom du jeu** : I love U
 
@@ -20,11 +20,14 @@
 
 ---
 
-#### Références
+## Références
+
+- bla bla bla
+- bla bla bla 
 
 ---
 
-#### Points techniques importants
+## Points techniques importants
 
     > **Peut-on graver un jeu en HyperCard sur disquette ?**
 
@@ -65,7 +68,7 @@ Charger des graphismes uniquement quand nécessaire.
 
 ---
 
-#### Plan de travail
+## Plan de travail
 
 **1. Prototype écriture**
 
