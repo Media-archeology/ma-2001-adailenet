@@ -141,8 +141,10 @@ Charger des graphismes uniquement quand nécessaire.
 #### Lundi 15 décembre
 
 - [X] upload le READ.ME et le plan
-  
-- [ ] finir le prototype d'écriture
+
+- [X] finir le prototype d'écriture sur Twine
+      
+- [X] écriture de la fiche structure du mini jeu
   
 
 #### Mardi 16 décembre
