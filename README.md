@@ -31,7 +31,7 @@
 
     > **Peut-on graver un jeu en HyperCard sur disquette ?**
 
-oui - techniquement je peux distribuer une pule HyperCard jouable depuis une **disquette 800 KB** (le Mac Plus utilise un *lecteur 3.5" 800 KB*)
+oui - techniquement je peux distribuer une pile HyperCard jouable depuis une **disquette 800 KB** (le Mac Plus utilise un *lecteur 3.5" 800 KB*)
 
 /!\ *Attention aux contraintes de taille*
 
