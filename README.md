@@ -14,7 +14,7 @@
 
 **Emulateur utilisé** : [pce/macplus [E-Maculation wiki]](https://www.emaculation.com/doku.php/pce_macplus)
 
-**Structure du jeu** : voir cette [fiche](blablabla)
+**Structure du jeu** : voir cette [fiche](structure.md)
 
 **Description** :
 
