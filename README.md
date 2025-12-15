@@ -14,6 +14,8 @@
 
 **Emulateur utilisé** : [pce/macplus [E-Maculation wiki]](https://www.emaculation.com/doku.php/pce_macplus)
 
+**Structure du jeu** : voir cette [fiche](blablabla)
+
 **Description** :
 
 > *I love U* est un jeu HyperText crée avec HyperCard. Se voulant anachronique afin de confronter des machines anciennes avec des sujets contemporains, *I love U* met en scène une correspondance amoureuse sur les réseaux sociaux. Mais, de qui êtes-vous tombé amoureux ?
