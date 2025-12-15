@@ -131,3 +131,45 @@ Charger des graphismes uniquement quand nécessaire.
   - utiliser leur émulation Macintosh intégrée
     
   - lier cette version depuis itch.io
+ 
+---
+
+## Emploi du temps
+
+#### Lundi 15 décembre
+
+- [X] upload le READ.ME et le plan
+  
+- [ ] finir le prototype d'écriture
+  
+
+#### Mardi 16 décembre
+
+- [ ] finir les maquettes de l'interface du jeu
+  
+- [ ] faire les images individuelles
+  
+- [ ] commencer la prise en main d'HyperCard dans un émulateur
+  
+
+#### Mercredi 17 décembre
+
+- [ ] récupération des sons + rajout des sons dans HyperCard
+  
+- [ ] Continuer le jeu sur l'émulateur
+  
+
+#### Jeudi 18 décembre
+
+- [ ] Finir le jeu à 12H
+  
+- [ ] Exporter le jeu (en img disque partagée et sur une disquette physique)
+  
+- [ ] Création du visuel pour la disquette + coller la disquette
+  
+
+#### Vendredi 19 décembre
+
+- [ ] Finir les points technique
+  
+- [ ] Publier mon jeu sur itch.io et faire des visuels
