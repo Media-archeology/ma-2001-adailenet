@@ -12,7 +12,7 @@
 
 **Outils graphiques utilisés** : outils de création d’images bitmap (1-bit) car je travaillerai en petites tailles
 
-**Emulateur utilisé** : [pce/macplus [E-Maculation wiki]](https://www.emaculation.com/doku.php/pce_macplus)
+**Emulateur utilisé** : voir la [GuideLine](Guideline.md)
 
 **Structure du jeu** : voir cette [fiche](structure.md)
 
