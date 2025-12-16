@@ -177,3 +177,16 @@ Charger des graphismes uniquement quand nécessaire.
 - [ ] Finir les points technique
   
 - [ ] Publier mon jeu sur itch.io et faire des visuels
+
+
+---
+
+## Problèmes rencontrés : 
+
+#### Utilisation d'HyperCard 
+
+Lorsqu'on crée un stack de card, le vue n'est pas en edit mode, il est impossible de trouver les tools etc ... 
+-> Ce qu'il faut faire :
+  - aller dans `Go` > `Message` (cela ouvre la message box)
+  - dans la message box, taper set `userLevel to 5` puis entrer
+  - maintenant la tools kit est apparue 
