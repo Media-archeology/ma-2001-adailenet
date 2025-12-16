@@ -1,4 +1,4 @@
-# Jeux vidéos & live coding
+# Jeux vidéos & vibe coding
 
 ---
 
@@ -128,11 +128,11 @@ Charger des graphismes uniquement quand nécessaire.
     
 - Publier et faire une option jouable dans le navigateur
   
-  - uploader mon jeu sur Internet Archive
+  - uploader mon jeu sur [Infinite Mac](https://infinitemac.org/1991/System%206.0.8)
     
-  - utiliser leur émulation Macintosh intégrée
+  - importer mon disk
     
-  - lier cette version depuis itch.io
+  - copier le lien de cette version depuis itch.io
  
 ---
 
@@ -149,11 +149,11 @@ Charger des graphismes uniquement quand nécessaire.
 
 #### Mardi 16 décembre
 
-- [ ] finir les maquettes de l'interface du jeu
+- [X] finir les maquettes de l'interface du jeu
   
-- [ ] faire les images individuelles
+- [X] faire les images individuelles
   
-- [ ] commencer la prise en main d'HyperCard dans un émulateur
+- [X] commencer la prise en main d'HyperCard dans un émulateur
   
 
 #### Mercredi 17 décembre
